@@ -34,3 +34,7 @@ An application that uses an eye tracker to follow the text a user is reading. Ba
 - Fine-tune an LLM for more accurate and context-aware translations.
 - Investigate using Google Colab for model fine-tuning.
 - Explore ways to improve user engagement via gamification and interactive learning experiences.
+
+
+## Existing SOTA
+Adaptive Real-Time Translation Assistance Through Eye-Tracking by Dimosthenis Minas, Eleanna Theodosiou, Konstantinos Roumpas and Michalis Xenos
